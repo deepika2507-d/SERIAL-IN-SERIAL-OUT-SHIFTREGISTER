@@ -71,4 +71,4 @@ endmodule
 ![Screenshot 2024-12-29 191138](https://github.com/user-attachments/assets/22877d08-736a-49ef-822f-77acdada5eaf)
 
 **RESULTS**
-thus the implement of SISO Shift Register using verilog and validating their functionality using their functional tables
+Thus the implement of SISO Shift Register using verilog and validating their functionality using their functional tables....
